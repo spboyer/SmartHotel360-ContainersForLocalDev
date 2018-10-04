@@ -1,0 +1,4 @@
+DROP DATABASE Hotels
+
+CREATE DATABASE Hotels;
+GO
