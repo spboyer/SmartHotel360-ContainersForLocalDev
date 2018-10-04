@@ -4,6 +4,7 @@ During **Connect(); 2017** event this year we presented beautiful app demos usin
 # SmartHotel360 Repos
 For this reference app scenario, we built several consumer and line-of-business apps and an Azure backend. You can find all SmartHotel360 repos in the following locations:
 
+* [How Containers Enable Local Development](https://github.com/microsoft/SmartHotel360-ContainersForLocalDev)
 * [SmartHotel360 ](https://github.com/Microsoft/SmartHotel360)
 * [Backend Services (optimized for Kubernetes)](https://github.com/Microsoft/SmartHotel360-AKS-DevSpaces-Demo)
 * [Public Website](https://github.com/Microsoft/SmartHotel360-public-web)
